@@ -1,10 +1,10 @@
-# Simple Custom Localhost {#top}
+# Simple Custom Localhost
 Want your folders clean and not cluttered? 
 - [Download](#download)
 - [Resources](#resources)
-- [Other Things](#other)
+- [Other Things](#other-things)
 
-## Download {#download}
+## Download 
 You can download this file with [zip](https://github.com/Clouza/simple-custom-localhost/archive/refs/heads/master.zip) or you can copy the code:
 ```php
 <?php
@@ -206,12 +206,12 @@ class UserInfo
 </html>
 ```
 
-## Resources {#resources}
+## Resources
 - Bootstrap v5
 
-[top](#top)
+[top](#Simple-Custom-Localhost)
 
-## Other Things {#other}
+## Other Things
 This file ```index.php``` default located at C:\xampp\htdocs, This file ```index.php``` detect the default folder with this code:
 ```php
 $localhost = $_SERVER['DOCUMENT_ROOT'];
@@ -224,4 +224,4 @@ $localhost = 'C:\xampp\htdocs';
 
 I'm assuming, you turn on the internet while opening localhost server, because this include with bootstrap online <br/>
 
-[top](#top)
+[top](#Simple-Custom-Localhost)
